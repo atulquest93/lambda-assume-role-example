@@ -7,7 +7,7 @@
                 "states:StartExecution"
             ],
             "Resource": [
-                "arn:aws:states:eu-west-2:AWS_ACCOUNT_ID:stateMachine:STATE_MACHINE_NAME" //state-machine arn
+                "state_machine_arn"
             ]
         }
     ]
